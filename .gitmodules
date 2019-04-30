@@ -1,0 +1,6 @@
+[submodule "visuomotor_affordances/src/GFN_model"]
+	path = visuomotor_affordances/src/GFN_model
+	url = https://github.com/elichou/GFN_model.git
+[submodule "visuomotor_affordances/notebooks_gfn"]
+	path = visuomotor_affordances/notebooks_gfn
+	url = https://github.com/elichou/notebooks_gfn.git
