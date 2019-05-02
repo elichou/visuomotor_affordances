@@ -10,3 +10,6 @@
 [submodule "visuomotor_affordances/src/GFN_train"]
 	path = visuomotor_affordances/src/GFN_train
 	url = https://github.com/elichou/GFN_train.git
+[submodule "visuomotor_affordances/src/GFN_database"]
+	path = visuomotor_affordances/src/GFN_database
+	url = https://github.com/elichou/GFN_database.git
